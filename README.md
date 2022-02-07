@@ -1,2 +1,3 @@
-# QOMMODITY
+# QOMMODITY / QAAA BSC CONTRACT 
 Qommodity Security Token - BSC
+V1.0 CONTRACT 
